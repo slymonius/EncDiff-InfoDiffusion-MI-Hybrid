@@ -184,7 +184,7 @@ If you use this code, please cite:
 ```bibtex
 @article{hybrid-disentangle-diffusion,
   title={A Hybrid Objective- and Architecture-Based Approach to Disentangled Representation Learning in Diffusion Models},
-  author={[Author Name]},
+  author={Simonius Jager},
   year={2025}
 }
 ```
@@ -202,4 +202,4 @@ MIT License
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact [contact info].
+For questions or issues, please open a GitHub issue or contact sjag014@aucklanduni.ac.nz
