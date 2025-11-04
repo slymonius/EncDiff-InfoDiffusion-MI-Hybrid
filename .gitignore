@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+pip-log.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (too large for Git)
+data/
+*.h5
+*.hdf5
+*.npz
+splits/
+
+# Model checkpoints and outputs (too large for Git)
+checkpoints/
+outputs/
+models/checkpoints/
+*.ckpt
+*.pth
+*.pt
+
+# Cached latents
+eval/cache/
+tmp/
+logs/
+
+# Large generated outputs (optional - keep small CSVs/figures)
+# Uncomment if figures/tables are too large:
+# evaluation/figures/*.png
+# evaluation/tables/*.html
